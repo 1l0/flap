@@ -1,0 +1,10 @@
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+/build
+/ios
+/macos
+.DS_Store
+/pubspec.lock
+go.sum
