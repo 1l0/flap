@@ -1,4 +1,4 @@
-module github.com/errtokyo/flap/go
+module github.com/1l0/flap/go
 
 go 1.16
 
